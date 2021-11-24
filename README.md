@@ -2,4 +2,4 @@
 
 ### Live Globe Demo
 
-(https://mian-ali.github.io/3D-Globe-Canvas/)
+[Click the Button](https://mian-ali.github.io/3D-Globe-Canvas/)
